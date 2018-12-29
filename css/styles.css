@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Segoe UI";
+  src: url("/ttf/segoeui.ttf");
+}
+
+@font-face {
+  font-family: "Segoe MDL2";
+  src: url("/ttf/segoe mdl2 assets.ttf");
+}
+
+@font-face {
+  font-family: "win";
+  src: url("/ttf/windows_command_prompt.ttf");
+}
+
+* {
+  font-family: "Segoe UI";
+}
