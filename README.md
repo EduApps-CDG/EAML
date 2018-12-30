@@ -30,7 +30,8 @@ No HTML code, just JavaScript!
       }
     </script>
   </body>
-</html>```
+</html>
+```
 
 ##You chose when show your elements
 the function `.show()` can do the same as `document.appendChild()`
