@@ -21,7 +21,7 @@ No HTML code, just JavaScript!
       //the main function, the code MAY dont work out of this
       //or another function
       function main() {
-        //create the button, but does'nt ahow
+        //create the button, but doesn't show
         var button = new eaml.tag.Button("show Hello World");
         //show the button
         button.show();
@@ -37,6 +37,14 @@ No HTML code, just JavaScript!
 ## You chose when show your elements
 the function `.show()` can do the same as `document.appendChild()`
 but is'nt too large and dont need more than 2 little lines
+
+## More TAGS
+tags supported:
+- eaml
+  - tag
+    - Button
+  - fature
+    - window
 
 ## Help Wanted
 I need help to make this possible, just the `Button` element its created...
