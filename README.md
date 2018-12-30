@@ -6,7 +6,8 @@ No HTML code, just JavaScript!
 ##How to use
 
 ####HTML Core:
-```<!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html>
   <head>
     <!--PLACED AT HEAD-->
