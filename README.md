@@ -5,7 +5,7 @@ No HTML code, just JavaScript!
 
 ### Contents
 - [How to use](#how-to-use)
-- [You can chose when show your elements](#you-can-chose-when-show-your-elements)
+- [You chose when show your elements](#you-chose-when-show-your-elements)
 - [More TAGS](#more-tags)
 - [Help wanted](#help-wanted)
 
