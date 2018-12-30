@@ -3,6 +3,12 @@ EduApps Markup Language
 
 No HTML code, just JavaScript!
 
+### Contents
+- [How to use](#how-to-use)
+- [You can chose when show your elements](#you-can-chose-when-show-your-elements)
+- [More TAGS](#more-tags)
+- [Help wanted](#help-wanted)
+
 ## How to use
 
 #### HTML Core:
@@ -46,6 +52,6 @@ tags supported:
   - fature
     - window
 
-## Help Wanted
+## Help wanted
 I need help to make this possible, just the `Button` element its created...
 But i dont have money, just the possible fame.
