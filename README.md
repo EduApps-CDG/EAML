@@ -3,9 +3,9 @@ EduApps Markup Language
 
 No HTML code, just JavaScript!
 
-##How to use
+## How to use
 
-####HTML Core:
+#### HTML Core:
 ```html
 <!DOCTYPE html>
 <html>
@@ -34,10 +34,10 @@ No HTML code, just JavaScript!
 </html>
 ```
 
-##You chose when show your elements
+## You chose when show your elements
 the function `.show()` can do the same as `document.appendChild()`
 but is'nt too large and dont need more than 2 little lines
 
-##Help Wanted
+## Help Wanted
 I need help to make this possible, just the `Button` element its created...
 But i dont have money, just the possible fame.
